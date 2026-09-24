@@ -1,16 +1,29 @@
-# React + Vite
+# Wonder Makers Digital — Homepage Recreation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend recreation of the Wonder Makers Digital homepage, built to closely reproduce its visual experience, interactions, animations, and responsive behavior.
 
-Currently, two official plugins are available:
+The project focuses on creating a polished, responsive user experience while implementing the homepage from scratch using modern frontend technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Key Features
 
-## React Compiler
+* Responsive homepage for desktop, tablet, and mobile
+* Interactive navigation
+* Smooth scrolling and transitions
+* Scroll-triggered animations
+* Interactive hover effects
+* Responsive layouts and typography
+* Component-based React architecture
+* Optimized frontend structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Tech Stack
 
-## Expanding the ESLint configuration
+* React
+* JavaScript
+* HTML5
+* CSS3
+* GSAP
+* Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Project Goal
+
+The goal of this project was to recreate the homepage experience of Wonder Makers Digital while developing the interactions and animations independently and maintaining clean, responsive, and maintainable frontend code.
